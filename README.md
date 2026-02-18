@@ -1,5 +1,8 @@
 # react-mentorship
 
-This repo is for my students to get code taught in class.
-
+React Mentorship: Classroom Code & ResourcesWelcome to the official code repository for our React Mentorship sessions. This repo is designed to be your primary technical reference, housing all the live-coding examples, starter templates, and solution sets discussed during our classes.🎯 Repository GoalsReference: Quick access to code snippets and patterns taught in class.Practice: Starter files for weekly assignments and challenges.Progress: A chronological history of our learning journey from "Hello World" to advanced state management.📂 Curriculum StructureThe codebase is organized by modules to match our syllabus:WeekTopicDescription01intro-to-jsxComponents, Props, and Basic Styling.02hooks-basicsMastering useState and useEffect.03forms-and-eventsControlled components and handling user input.04api-integrationFetching data and handling loading/error states.05react-routerClient-side routing and dynamic navigation.06context-apiGlobal state management without prop drilling.🛠️ Getting StartedTo run any of the project folders locally, follow these steps:Clone the Repository:Bashgit clone https://github.com/your-username/react-mentorship.git
+Navigate to the Specific Module:Bashcd week-02-hooks-basics
+Install Dependencies:Bashnpm install
+Run the Development Server:Bashnpm run dev
+📝 Student GuidelinesDon't Just Copy-Paste: I encourage you to manually type out the code from the examples to build muscle memory.Branching: If you want to experiment, create your own branch: git checkout -b student-yourname.Issues: If you find a bug in a classroom example or have a question about a snippet, feel free to open an Issue.🔗 Useful LinksReact Official DocumentationVite GuideMDN Web Docs (JavaScript)Note: This repository is updated weekly after every live session. Make sure to git pull before starting a new module!
 [Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/pythoniclad/react-learn)
